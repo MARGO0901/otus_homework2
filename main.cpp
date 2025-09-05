@@ -63,6 +63,5 @@ int main(int, char **) {
 			std::cout << str.str() << std::endl;
 		}
 	}
-
 	return 0;
 } 
